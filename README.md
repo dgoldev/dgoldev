@@ -1,8 +1,9 @@
 ### Hi there 👋
 
- <div>
-   <a href="https://github.com/dgoldev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgoldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?
+   username=dgoldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgoldev&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -21,6 +22,6 @@
   <a href = "diegofelipe.silva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-felipe-da-silva-b21289206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dgoldev/dgoldev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
